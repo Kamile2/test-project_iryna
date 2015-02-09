@@ -39,5 +39,5 @@ public class AddNewCreationTests extends TestBase{
     submitGroupCreation();
     returnToGroupsPage();
   }
-  
+  //added comments for checking how push done
 }
